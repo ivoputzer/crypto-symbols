@@ -1,4 +1,51 @@
 {
   "name": "crypto-symbols",
-  "version": "0.0.0-draft.1"
+  "version": "0.0.0-draft.2",
+  "description": "cryptocurrency ascii symbols",
+  "main": "index.js",
+  "standard": {
+    "global": [
+      "test"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "m.test": "0.0.57"
+  },
+  "scripts": {
+    "node": "node",
+    "test": "m.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/crypto-symbols.git"
+  },
+  "keywords": [
+    "crypto",
+    "symbol",
+    "ascii",
+    "eur",
+    "usd",
+    "gbp",
+    "inr",
+    "cny",
+    "rub",
+    "btc",
+    "bch",
+    "ltc",
+    "eth",
+    "etc",
+    "zrx",
+    "doge",
+    "iota"
+  ],
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivoputzer/crypto-symbols/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/crypto-symbols#readme",
+  "directories": {
+    "test": "test"
+  }
 }
