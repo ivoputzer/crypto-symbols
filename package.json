@@ -1,6 +1,6 @@
 {
   "name": "crypto-symbols",
-  "version": "0.0.0-draft.2",
+  "version": "0.0.1",
   "description": "cryptocurrency ascii symbols",
   "main": "index.js",
   "standard": {
