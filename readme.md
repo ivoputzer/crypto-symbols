@@ -12,3 +12,16 @@ Cryptocurrency [ASCII](https://it.wikipedia.org/wiki/ASCII) symbols.
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&colorB=007EC6)](https://spdx.org/licenses/MIT)
 [![minzip](https://img.shields.io/bundlephobia/minzip/crypto-symbols.svg?style=for-the-badge)](https://bundlephobia.com/scan-results?packages=crypto-symbols)
 [![downloads](https://img.shields.io/npm/dt/crypto-symbols.svg?style=for-the-badge&colorB=007EC6)](https://www.npmjs.com/package/crypto-symbols)
+
+## Install
+```sh
+npm install crypto-symbols
+```
+
+## Usage
+```js
+const { BTC, EUR } = require('crypto-symbols')
+
+console.log(BTC) // "₿"
+console.log(EUR) // "€"
+```
