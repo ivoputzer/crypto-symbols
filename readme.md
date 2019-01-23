@@ -25,3 +25,16 @@ const { BTC, EUR } = require('crypto-symbols')
 console.log(BTC) // "₿"
 console.log(EUR) // "€"
 ```
+
+## Donations
+If you find value in what I do then feel free to make a donation, it will be really appreciated! Maintaining projects isn't effortless nor free and if you'd like to kick in and help me cover those expenses, that would be awesome. If you don't, no problem; You can use my software completely free of charge and without limitation for any purpose you want ;)
+
+- **BTC** `3AqnYES5v6ZvmsmfxSMDsaTbscrU5bBs3s`
+- **LTC** `MHkD645LQtDwqKiaMTpSXdfCSa2DM2BYyV`
+- **BCH** `qpsq3xk8wfrmmnz2d2z9vkhn3v78qm9e0ca8vl2ctl`
+- **ETH** `0x5073d98647Df3448Bc53714dAf26F9b5AF516914`
+- **ETC** `0x5B4224b376C0a32B70B0e25F6aEeCfc2d0131703` <!-- fixme: address of github.com/ivoputzer/coinbase-pro-api -->
+- **ZRX** `0xF60eD6303fDb9166acf382056db406364EA56008`
+- **BAT** `0x6Fd9B7C004aC709603e599deDE643F277128Ad09`
+- **ZEC** `t1KrEUBSMQix4P1SynviNacVfrsyaGhjR5C`
+- **USDC** `0x0593B337f964F7A16848Ea0186221884CEcF94d8`
