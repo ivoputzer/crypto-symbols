@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+.nyc_output/
+*.tgz
+*.log
+.npmrc
+package-lock.json
+todo.md
