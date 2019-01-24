@@ -51,8 +51,8 @@ test('crypto-symbols', () => {
   })
 
   test('supports ethereum classic', () => {
-    const { ETH } = require('..')
-    strictEqual(ETH, 'Ξ')
+    const { ETC } = require('..')
+    strictEqual(ETC, '⟠')
   })
 
   test('supports 0x', () => {
